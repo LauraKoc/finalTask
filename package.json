@@ -1,0 +1,14 @@
+{
+  "name": "finaltask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Laura Kocetkova",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3"
+  }
+}
